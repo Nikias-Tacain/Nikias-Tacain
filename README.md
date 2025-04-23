@@ -4,7 +4,7 @@
 
 <br>
 
-- 🎓 Estudiante de **Ciencia de Datos**.  
+- 🎓 Estudiante de la carrera **Ciencia de Datos** de la Facultad Nacional de La Plata(UNLP).  
 - 👨‍💻 Apasionado por el **Desarrollo Web** y **la Ciencia de Datos**.  
 
 ---
