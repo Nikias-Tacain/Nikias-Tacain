@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Nikias Tacain</h1>
 
-<h3 align="center">Desarrollador Web | Ciencia de Datos | Creando contenido sobre tecnología</h3>
+<h3 align="center">Desarrollador Web | Ciencia de Datos </h3>
 
 <br>
 
