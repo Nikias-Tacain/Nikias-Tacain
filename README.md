@@ -1,11 +1,11 @@
 <h1 align="center">Hola, soy Nikias Tacain</h1>
 
-<h3 align="center">Desarrollador Web | Ciencia de Datos </h3>
+<h3 align="center"> Ciencia de Datos </h3>
 
 <br>
 
 - 🎓 Estudiante de la carrera **Ciencia de Datos** de la Facultad Nacional de La Plata(UNLP).  
-- 👨‍💻 Apasionado por el **Desarrollo Web** y **la Ciencia de Datos**.  
+- 👨‍💻 Apasionado por **la Ciencia de Datos**.  
 
 ---
 
